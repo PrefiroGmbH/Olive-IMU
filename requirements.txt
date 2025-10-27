@@ -1,0 +1,7 @@
+rclpy
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+plotly
